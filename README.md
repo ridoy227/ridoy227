@@ -16,13 +16,13 @@
 
 - 🤝 I’m looking for help with **Python, Java**
 
-- 👨‍💻 All of my projects are available at [https://devridoy.netlify.app/](https://devridoy.netlify.app/)
+- 👨‍💻 All of my projects are available at [VIEW WEBSITE](https://devridoy.netlify.app/)
 
 - 💬 Ask me about **flutter, dart**
 
 - 📫 How to reach me **ashiquer6364@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PgopOSRAROPbguV6blJtUuaxo9RpkLQS/view](https://drive.google.com/file/d/1PgopOSRAROPbguV6blJtUuaxo9RpkLQS/view)
+- 📄 Know about my experiences [CLICK HERE](https://shorturl.at/9Kqrd)
 
 - ⚡ Fun fact **I think i am funny**
 
