@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ridoy</h1>
 <h3 align="center">A passionate Flutter Developer from Bangladesh</h3>
-<img  align="right" alt="Coding" width="500px" src="https://github.com/devSouvik/devSouvik/raw/master/gif4.gif">
+<img  align="right" alt="Coding" width="400" src="https://github.com/devSouvik/devSouvik/raw/master/gif4.gif">
 
 
 
